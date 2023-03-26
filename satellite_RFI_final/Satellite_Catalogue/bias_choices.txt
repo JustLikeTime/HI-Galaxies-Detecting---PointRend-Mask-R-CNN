@@ -1,0 +1,3 @@
+# 'gps-ops', 'glo-ops', 'galileo', 'beidou', 'irnss', 'qzs', 'sbas'
+# 30 1 1 200 1000 0 2
+0 0 1 0 0 0 0
